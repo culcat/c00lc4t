@@ -1,0 +1,13 @@
+{
+    "name": "c00lc4t",
+    "short_name": "cc",
+    "display": "standalone",
+    "background_color": "#000000",
+    "description": "my personal web-site",
+    "icons": [
+     {
+        "src": "./favicon/favicon.ico",
+      "type": "image/ico"
+    }]
+    
+  }
