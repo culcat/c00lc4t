@@ -1,7 +1,7 @@
 const img1 = document.querySelector('.bi-Vk')
 if (img1) {
   img1.addEventListener('mouseover', () => {
-    document.querySelector('.imgText').innerHTML = 'Vk'
+    document.querySelector('.imgText').innerHTML = 'VK'
     addEventListener('mouseout', () =>{
         document.querySelector('.imgText').innerHTML = ''
     }
