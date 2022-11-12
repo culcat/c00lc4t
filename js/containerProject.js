@@ -66,3 +66,4 @@ if (ghsClose) {
       document.querySelector('.ghsWeb').innerHTML = '' 
     }
   )  }
+
